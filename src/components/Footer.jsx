@@ -12,9 +12,9 @@ const Footer = () => {
 
 
       <p>
-
        &copy;
-      {footerDate.current} Mizzrawr</p>
+        {new Date().getFullYear()} Mizzrawr
+       </p>
     </footer>
   );
 };

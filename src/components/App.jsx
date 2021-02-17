@@ -8,7 +8,7 @@ import fetcher from './Fetcher'
 import Card from './Card'
 
 
-const API_URL = 'https://kitsu.io/api/edge/anime'
+const API_URL = 'https://kitsu.io/api/edge/trending/anime'
 //General animes =>
 //https://kitsu.io/api/edge/anime
 
